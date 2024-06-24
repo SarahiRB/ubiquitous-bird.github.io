@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Incrediblee bird"
+  name   : "Potoos-are-cool"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Ever wondered why school sucks so much?"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
