@@ -17,10 +17,3 @@ group :jekyll_plugins do
   gem "jekyll-include-cache"
   gem "jekyll-algolia"
 end
-
-
-if Gem.win_platform?
-  gem 'wdm', '>= 0.1.0'
-else
-  gem 'rb-inotify', '>= 0.9.10'
-end
