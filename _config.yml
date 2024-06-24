@@ -32,7 +32,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: EC
+timezone:
 
 include:
   - _pages
@@ -54,14 +54,15 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+  # - jekyll-feed
   - jemoji
   - jekyll-include-cache
 
 author:
-  name   : "Potoos-are-cool"
+  name   : "-a cool name yet to decide-"
   avatar : "/assets/images/patito_curious-(edit).jpg"
-  bio    : "This is just a weirdo telling you weird stuff :3"
+  bio    : "This is just a weirdo telling you weird stuff :3
+  P.S. I won't talk about potoos that much or... at all?"
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
